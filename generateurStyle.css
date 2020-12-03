@@ -1,7 +1,10 @@
 body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 100vh;
+    justify-content: center;
 }
 
 .carreColor {
@@ -33,5 +36,5 @@ align-items: flex-start;
 .mainBelow{
     border: 1px solid black; 
     width:400px;
-    height:400px
+    height:200px;
 }
