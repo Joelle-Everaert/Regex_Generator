@@ -3,7 +3,7 @@
 * Solo project made by me: [Joelle Everaert](https://github.com/Joelle-Everaert) :blush:
 * Type of challenge: training
 * duration : half day
-* Date : 
+* Date : 01/12/2020
 
 ## What did we do ?
 Creation of a generator to check if our "REGEX" is correct. 
